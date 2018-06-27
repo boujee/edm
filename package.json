@@ -1,0 +1,11 @@
+{
+  "name": "edm",
+  "version": "1.0.0",
+  "description": "A display manager based on electron",
+  "scripts": {
+    "start": "electron start.js"
+  },
+  "dependencies": {
+    "electron": "^2.0.3"
+  }
+}
