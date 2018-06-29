@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "A display manager based on electron",
   "scripts": {
-    "start": "electron start.js"
+    "start": "electron ."
   },
   "dependencies": {
-    "electron": "^2.0.3"
+    "electron": "^2.0.3",
+    "glob": "^7.1.2",
+    "ini": "^1.3.5"
   }
 }
